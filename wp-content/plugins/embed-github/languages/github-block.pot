@@ -1,0 +1,225 @@
+# Copyright (C) 2024 bPlugins
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Embed Github 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/github-block\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-04T16:18:47+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: github\n"
+
+#. Plugin Name of the plugin
+msgid "Embed Github"
+msgstr ""
+
+#. Description of the plugin
+msgid "Embed your GitHub repositories on WordPress."
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bplugins.com"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8539
+msgid "Github Username"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8546
+msgid "Fetch Data"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8551
+msgid "Repositories Info"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8553
+msgid "Logo"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8555
+#: dist/editor.js:8629
+msgid "Name"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8557
+#: dist/editor.js:8638
+msgid "Description"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8559
+msgid "Download Button"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8561
+msgid "Topic"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8565
+#: dist/editor.js:8567
+#: dist/editor.js:8660
+msgid "Pagination"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8569
+msgid "Repositories  Per Page"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8576
+msgid "Layout"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8583
+msgid "Column Gap:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8586
+msgid "Row Gap:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8590
+msgid "Columns:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8601
+msgid "Wrapper"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8602
+#: dist/editor.js:8608
+msgid "Background:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8604
+#: dist/editor.js:8610
+#: dist/editor.js:8653
+#: dist/editor.js:8683
+msgid "Padding"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8607
+msgid "Card"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8612
+#: dist/editor.js:8655
+#: dist/editor.js:8667
+#: dist/editor.js:8679
+msgid "Border"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8616
+msgid "Icon"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8618
+msgid "Size"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8623
+#: dist/editor.js:8632
+#: dist/editor.js:8641
+msgid "Color"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8630
+#: dist/editor.js:8639
+#: dist/editor.js:8649
+#: dist/editor.js:8661
+#: dist/editor.js:8673
+msgid "Typography"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8647
+msgid "Download Button & Topic"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8651
+#: dist/editor.js:8663
+#: dist/editor.js:8675
+msgid "Colors"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8665
+msgid "Active Colors"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8672
+msgid "Modal Button"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8677
+msgid "Hover Colors"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8681
+msgid "Hover Border"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13290
+msgid "Please Insert Your Github Username And Fetch Data"
+msgstr ""
+
+#: block.json
+msgctxt "block title"
+msgid "Embed Github"
+msgstr ""
+
+#: block.json
+msgctxt "block description"
+msgid "Embed your GitHub repositories on WordPress."
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "github"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "github embed"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "github repositories"
+msgstr ""
